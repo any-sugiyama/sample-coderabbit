@@ -10,5 +10,5 @@ export const even = (numbers: number[]): number[] => numbers.filter(num => num %
 export const hogehoge = (number: number): number => {
          if(isNaN(number)) return number
          if(isNaN(number)) return number
-    return number *2
+                           return number *2
 };
